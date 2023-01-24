@@ -1,1 +1,2 @@
-#Grace Galvina
+#Grace Galvin
+**email:** ggalvin@mines.edu
