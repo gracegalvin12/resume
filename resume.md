@@ -8,4 +8,4 @@
 - Python
 - Excel
 
-![image](https://user-images.githubusercontent.com/122392286/215547070-3a23ff38-60b1-454a-926a-b764fa906583.png)
+<img src="https://user-images.githubusercontent.com/122392286/215547070-3a23ff38-60b1-454a-926a-b764fa906583.png" width="200" height="280">
